@@ -1,8 +1,8 @@
-# 35-Book Classics Reading Roadmap
+# 36-Book Classics Reading Roadmap
 
 A high-ROI reading path for a CS student who wants to develop English comprehension, expression, philosophical reasoning, psychological insight, historical perspective, cultural literacy, and understanding of people.
 
-The order is intentionally designed as a progression: accessible works first, then ancient foundations, increasingly complex psychology and society, political philosophy, Kant, Shakespeare, existentialism, and broader civilization/history.
+The order is intentionally designed as a progression: accessible works first, then ancient foundations, increasingly complex psychology and society, political philosophy, Kant, Nietzsche, Shakespeare, existentialism, and broader civilization/history.
 
 ---
 
@@ -190,7 +190,15 @@ The order is intentionally designed as a progression: accessible works first, th
 
 ---
 
-## 24. Hamlet
+## 24. Beyond Good and Evil
+
+**Author:** Friedrich Nietzsche
+
+**About:** Nietzsche challenges conventional assumptions about morality, truth, religion, philosophers, power, and human motivation. It is a major critique of traditional moral and philosophical assumptions.
+
+---
+
+## 25. Hamlet
 
 **Author:** William Shakespeare
 
@@ -198,7 +206,7 @@ The order is intentionally designed as a progression: accessible works first, th
 
 ---
 
-## 25. Macbeth
+## 26. Macbeth
 
 **Author:** William Shakespeare
 
@@ -206,7 +214,7 @@ The order is intentionally designed as a progression: accessible works first, th
 
 ---
 
-## 26. The Divine Comedy
+## 27. The Divine Comedy
 
 **Author:** Dante Alighieri
 
@@ -214,7 +222,7 @@ The order is intentionally designed as a progression: accessible works first, th
 
 ---
 
-## 27. Man's Search for Meaning
+## 28. Man's Search for Meaning
 
 **Author:** Viktor E. Frankl
 
@@ -222,7 +230,7 @@ The order is intentionally designed as a progression: accessible works first, th
 
 ---
 
-## 28. The Stranger
+## 29. The Stranger
 
 **Author:** Albert Camus
 
@@ -230,7 +238,7 @@ The order is intentionally designed as a progression: accessible works first, th
 
 ---
 
-## 29. The Trial
+## 30. The Trial
 
 **Author:** Franz Kafka
 
@@ -238,7 +246,7 @@ The order is intentionally designed as a progression: accessible works first, th
 
 ---
 
-## 30. On Liberty
+## 31. On Liberty
 
 **Author:** John Stuart Mill
 
@@ -246,7 +254,7 @@ The order is intentionally designed as a progression: accessible works first, th
 
 ---
 
-## 31. The Social Contract
+## 32. The Social Contract
 
 **Author:** Jean-Jacques Rousseau
 
@@ -254,7 +262,7 @@ The order is intentionally designed as a progression: accessible works first, th
 
 ---
 
-## 32. On the Origin of Species
+## 33. On the Origin of Species
 
 **Author:** Charles Darwin
 
@@ -262,7 +270,7 @@ The order is intentionally designed as a progression: accessible works first, th
 
 ---
 
-## 33. The Autobiography of Benjamin Franklin
+## 34. The Autobiography of Benjamin Franklin
 
 **Author:** Benjamin Franklin
 
@@ -270,7 +278,7 @@ The order is intentionally designed as a progression: accessible works first, th
 
 ---
 
-## 34. The Muqaddimah
+## 35. The Muqaddimah
 
 **Author:** Ibn Khaldun
 
@@ -278,7 +286,7 @@ The order is intentionally designed as a progression: accessible works first, th
 
 ---
 
-## 35. The Analects
+## 36. The Analects
 
 **Author:** Confucius
 
@@ -310,15 +318,10 @@ These are not required for the core 35, but are worth reading if the philosophic
 
 ---
 
-## C. Beyond Good and Evil
 
-**Author:** Friedrich Nietzsche
+# Progress Tracking
 
-**About:** Nietzsche challenges conventional assumptions about morality, truth, religion, philosophers, power, and human motivation. It is a major transition toward modern critiques of traditional morality.
-
-**Difficulty:** High.
-
----
+Use **[X]** after a book title only when you have actually finished that book. Currently, **Animal Farm [X]** is the only completed book on this roadmap.
 
 # Suggested Reading Pace
 
@@ -334,7 +337,7 @@ For novels, focus on understanding characters, motives, themes, historical conte
 
 # The 10 Highest-ROI Books
 
-If the complete 35-book path becomes too demanding, prioritize:
+If the complete 36-book path becomes too demanding, prioritize:
 
 1. **Meditations**
 2. **The Odyssey**
@@ -344,7 +347,7 @@ If the complete 35-book path becomes too demanding, prioritize:
 6. **Anna Karenina**
 7. **1984**
 8. **Groundwork of the Metaphysics of Morals**
-9. **The Death of Ivan Ilyich**
+9. **Beyond Good and Evil**
 10. **The Muqaddimah**
 
 These give an especially strong combination of philosophy, psychology, literature, politics, history, civilization, and understanding of human behavior.
