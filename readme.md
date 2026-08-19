@@ -6,7 +6,7 @@ The order is intentionally designed as a progression: accessible works first, th
 
 ---
 
-## 1. Animal Farm
+## 1. Animal Farm [X]
 
 **Author:** George Orwell
 
